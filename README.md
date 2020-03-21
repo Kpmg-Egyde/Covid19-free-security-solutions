@@ -19,11 +19,16 @@ This repository provides a list of security solutions offered for free during th
 ## Multi Factor Authentication
 
 - [DUO](https://signup.duo.com/?utm_source=cisco.com&utm_medium=referral&utm_campaign=remote-expansion) (for existing clients)
+- [Okta](https://www.okta.com/okta-for-emergency-remote-work/)
 
 ## Electronic signature
 
-- [PandaDoc](https://signup.duo.com/?utm_source=cisco.com&utm_medium=referral&utm_campaign=remote-expansion)
+- [PandaDoc](https://blog.pandadoc.com/new-pandadoc-free-esign-plan/)
 
 ## Training
 
 - [SANS](https://www.sans.org/security-awareness-training/sans-security-awareness-work-home-deployment-kit)
+
+## Vulnerability scanning
+
+- [Tenable](https://www.tenable.com/try)
