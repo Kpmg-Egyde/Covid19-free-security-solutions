@@ -34,3 +34,7 @@ This repository provides a list of security solutions offered for free during th
 ## Vulnerability scanning
 
 - [Tenable](https://www.tenable.com/try)
+
+## Network Threat Detection
+
+- [StreamScan](https://insecm.ca/teletravail/teletravail-quoi-faire-pour-minimiser-les-risques-de-cybersecurite/)
