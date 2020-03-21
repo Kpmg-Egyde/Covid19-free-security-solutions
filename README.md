@@ -12,6 +12,8 @@ This repository provides a list of security solutions offered for free during th
 - [Crowstrike](https://www.crowdstrike.com/blog/new-programs-to-secure-remote-workers-during-covid19-crisis/)
 - [SentinelOne](https://www.sentinelone.com/press/covid-19-sentinelone-offers-free-platform-access-to-help-enterprises-around-the-globe-embrace-secure-remote-work-and-stay-protected/)
 - [Sophos](https://twitter.com/Sophos/status/1240317199228620801) (for existing clients)
+- [Trend Micro](https://resources.trendmicro.com/Work-From-Home-Assistance-Program-UK.html)
+
 
 ## Web security
 - [Umbrella](https://signup.umbrella.com/?_ga=2.263060108.1618605728.1583165828-1792231225.1582053246)
