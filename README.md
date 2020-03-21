@@ -1,6 +1,10 @@
 # Covid19-free-security-solutions
 This repository provides a list of security solutions offered for free during the Covid19 crisis
 
+## Other lists
+
+- [Hexatrust](https://www.hexatrust.com/coronavirus/) : List of french cyber solutions offer with discount or free or with special arrangements.
+
 ## VPN Solutions
 - [TheGreenBow](http://thegreenbow.com)
 - [Cisco](https://gblogs.cisco.com/fr/securite/en-reponse-au-besoin-croissant-de-teletravail-nous-etendons-nos-offres-de-securite-gratuites/)
