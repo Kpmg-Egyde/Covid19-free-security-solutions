@@ -5,12 +5,13 @@ This repository provides a list of security solutions offered for free during th
 
 - [Hexatrust](https://www.hexatrust.com/coronavirus/) : List of french cyber solutions offer with discount or free or with special arrangements.
 
-## VPN Solutions
+## VPN and remote access Solutions
 - [TheGreenBow](http://thegreenbow.com)
 - [Cisco](https://gblogs.cisco.com/fr/securite/en-reponse-au-besoin-croissant-de-teletravail-nous-etendons-nos-offres-de-securite-gratuites/)
 - [CloudFlare](https://blog.cloudflare.com/cloudflare-during-the-coronavirus-emergency/)
 - https://dispel.io
 - [BeyondTrust](https://www.beyondtrust.com/covid-19-notice) (Remote desktop en HTTPS)
+- [Akamai](https://www.akamai.com/us/en/campaign/business-continuity-assistance-program.jsp)
 
 
 ## Antivirus
@@ -27,6 +28,7 @@ This repository provides a list of security solutions offered for free during th
 
 - [DUO](https://signup.duo.com/?utm_source=cisco.com&utm_medium=referral&utm_campaign=remote-expansion) (for existing clients)
 - [Okta](https://www.okta.com/okta-for-emergency-remote-work/)
+- [Ping](https://www.pingidentity.com/en/lp/e/work-from-home-sso-mfa.html)
 
 ## Electronic signature
 
