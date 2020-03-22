@@ -45,3 +45,7 @@ This repository provides a list of security solutions offered for free during th
 ## Network Threat Detection
 
 - [StreamScan](https://insecm.ca/teletravail/teletravail-quoi-faire-pour-minimiser-les-risques-de-cybersecurite/)
+
+## Email protection
+
+- [GreatHorn](https://www.greathorn.com/press_releases/greathorn-offers-free-email-protection-for-60-days/)
