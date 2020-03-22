@@ -10,6 +10,7 @@ This repository provides a list of security solutions offered for free during th
 - [Cisco](https://gblogs.cisco.com/fr/securite/en-reponse-au-besoin-croissant-de-teletravail-nous-etendons-nos-offres-de-securite-gratuites/)
 - [CloudFlare](https://blog.cloudflare.com/cloudflare-during-the-coronavirus-emergency/)
 - https://dispel.io
+- [BeyondTrust](https://www.beyondtrust.com/covid-19-notice) (Remote desktop en HTTPS)
 
 
 ## Antivirus
