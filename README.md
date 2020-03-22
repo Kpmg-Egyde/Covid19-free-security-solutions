@@ -52,3 +52,7 @@ This repository provides a list of security solutions offered for free during th
 ## Email protection
 
 - [GreatHorn](https://www.greathorn.com/press_releases/greathorn-offers-free-email-protection-for-60-days/)
+
+## Vulnerability Scanning
+
+- [Netsparker](https://www.netsparker.com/blog/news/netsparker-licenses-for-covid-relief/) (for specific organizations involved in the crisis fight)
