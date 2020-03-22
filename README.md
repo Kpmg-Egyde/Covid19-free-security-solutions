@@ -56,3 +56,7 @@ This repository provides a list of security solutions offered for free during th
 ## Vulnerability Scanning
 
 - [Netsparker](https://www.netsparker.com/blog/news/netsparker-licenses-for-covid-relief/) (for specific organizations involved in the crisis fight)
+
+## Wifi protection
+
+- [Minim](https://www.benzinga.com/pressreleases/20/03/n15560782/minim-offers-free-wifi-management-and-security-tools-to-remote-workforces-in-response-to-covid-19)
