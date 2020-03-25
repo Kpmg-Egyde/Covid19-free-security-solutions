@@ -22,6 +22,7 @@ This repository provides a list of security solutions offered for free during th
 - [Sophos](https://twitter.com/Sophos/status/1240317199228620801) (for existing clients)
 - [Trend Micro](https://resources.trendmicro.com/Work-From-Home-Assistance-Program-UK.html)
 - [AppGuard](https://www.appguard.us/request-free-appguard-solo-license/)
+- [Carbon Black](https://www.carbonblack.com/2020/03/23/vmware-carbon-black-removes-endpoint-limits-for-customers-to-secure-their-changing-environments-during-the-covid-19-crisis/)
 
 ## Web security
 
